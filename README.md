@@ -1,4 +1,4 @@
 ## Hi there 👋
 
 **- Estou estudando alura** 🪴
-![.](https://tenor.com/bVmE1.gif)
+![.]( https://media.tenor.com/_ks32BpO6WQAAAAi/ouvindo-m%C3%BAsica.gif)
